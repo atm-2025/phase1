@@ -1,0 +1,9 @@
+{
+  "hotkey": "right ctrl+left",
+  "default_engine": 2,
+  "auto_focus": true,
+  "start_minimized": false,
+  "max_history": 100,
+  "transparency": 0.55,
+  "theme": "dark"
+}
